@@ -1,0 +1,27 @@
+{"ScoreList": [
+    {"Score": [{
+        "yPos": 76,
+        "Pitch": "A5",
+        "Time Value": "1",
+        "xPos": 555,
+        "Image": "sun.awt.image.ToolkitImage@558c03d1"
+    }]},
+    {"Score": [
+        {
+            "yPos": 14,
+            "Pitch": "D4",
+            "Time Value": "1",
+            "xPos": 437,
+            "Image": "sun.awt.image.ToolkitImage@21077fa0"
+        },
+        {
+            "yPos": 41,
+            "Pitch": "E5",
+            "Time Value": "1",
+            "xPos": 342,
+            "Image": "sun.awt.image.ToolkitImage@21077fa0"
+        }
+    ]},
+    {"Score": []},
+    {"Score": []}
+]}

@@ -1,0 +1,36 @@
+{"ScoreList": [
+    {"Score": [
+        {
+            "yPos": 0,
+            "Pitch": "C4",
+            "Time Value": "1",
+            "xPos": 0
+        },
+        {
+            "yPos": 0,
+            "Pitch": "0",
+            "Time Value": "1/2",
+            "xPos": 0
+        },
+        {
+            "yPos": 0,
+            "Pitch": "E4",
+            "Time Value": "1/8",
+            "xPos": 0
+        }
+    ]},
+    {"Score": [
+        {
+            "yPos": 0,
+            "Pitch": "0",
+            "Time Value": "1/2",
+            "xPos": 0
+        },
+        {
+            "yPos": 0,
+            "Pitch": "E4",
+            "Time Value": "1/8",
+            "xPos": 0
+        }
+    ]}
+]}
